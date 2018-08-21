@@ -1,0 +1,13 @@
+.DS_Store
+.venv
+public/
+*/xapian_index/
+*/settings/local.py
+*.pyc
+*.db
+*.orig
+*.rdb
+*.log
+__pycache__
+.env
+settings/local.py
